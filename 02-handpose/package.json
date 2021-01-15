@@ -1,0 +1,22 @@
+{
+  "name": "hackathon-fingerpose-demo",
+  "version": "1.0.0",
+  "description": "Quick demo of fingerpose.js for hackathon.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonalderman/ml-on-the-web-for-beginners.git"
+  },
+  "author": "Jason Alderman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonalderman/ml-on-the-web-for-beginners/issues"
+  },
+  "homepage": "https://github.com/jasonalderman/ml-on-the-web-for-beginners#readme",
+  "dependencies": {
+    "fingerpose": "0.0.2"
+  }
+}
